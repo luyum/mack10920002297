@@ -11,8 +11,8 @@ int LeituraSensorFC28;
 float VoltageLDR;
 
 // Configuracoes da rede WiFi
-const char* ssid = "LUS2.4G"; //SSID da rede WiFi
-const char* password = "ted1620l"; //senha da rede WiFi
+const char* ssid = "********"; //SSID da rede WiFi
+const char* password = "*************"; //senha da rede WiFi
 
 const char* mqtt_server = "broker.mqtt-dashboard.com"; //URL do broker MQTT
 const int mqtt_server_port = 1883; //porta do broker MQTT
