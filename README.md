@@ -4,6 +4,7 @@ Projeto que utiliza a placa NodeMCU ESP8266 com sensores e atuadores para leitur
 
 Instalação da IDE Arduino
 https://www.arduino.cc/en/software
+
 Para usar o Node MCU ESP8266 com a IDE Arduino, é necessário inserir o link abaixo nas URLs Adicionais para Gerenciadores de Placas. 
 Acessar Arquivo >> Preferências >> Configurações
 http://arduino.esp8266.com/stable/package_esp8266com_index.json 
